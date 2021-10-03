@@ -1,0 +1,52 @@
+{
+  "food": [
+    {
+      "name": "manzana",
+      "picture": "https://www.eluniversal.com.mx/sites/default/files/2016/09/07/manzana.jpg",
+      "description": "manzana description",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "peras",
+      "picture": "https://www.herbazest.com/imgs/d/8/7/551784/pera.jpg",
+      "description": "this is a dummuy description to a api rest"
+    },
+    {
+      "id": 3,
+      "name": "pizza",
+      "picture": "https://www.dondeir.com/wp-content/uploads/2019/08/pizza-hut-cadenas-de-pizza-cdmx.jpg",
+      "description": "this is a dummuy description to a api rest"
+    },
+    {
+      "name": "fetuccini",
+      "picture": "-",
+      "description": "nada, esto es de prueba.",
+      "id": 4
+    },
+    {
+      "name": "dedos de queso",
+      "picture": "https://cdn.kiwilimon.com/recetaimagen/231/th5-640x640-1890.jpg",
+      "description": "nada, esto es de prueba",
+      "id": 5
+    },
+    {
+      "name": "perasa",
+      "picture": "https://www.herbazest.com/imgs/d/8/7/551784/pera.jpg",
+      "description": "this is a dummuy description to a api rest",
+      "id": 6
+    },
+    {
+      "name": "tadeo",
+      "picture": "-",
+      "description": "-",
+      "id": 7
+    },
+    {
+      "name": "yo",
+      "picture": "yo",
+      "description": "yo",
+      "id": 8
+    }
+  ]
+}
